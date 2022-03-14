@@ -1,0 +1,48 @@
+canvas{
+    border-style: solid;
+    border-width: 2px;
+    display: block;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
+
+button{
+    font-size: 25pt;
+    width: 250px;
+    height: 90px;
+    position: absolute;
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+    right: 0;
+    left: 0;
+    size: 60px;
+}
+
+#final {
+    display: none;
+}
+
+.verticalmenu{
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    font-family: "Bauhaus 93";
+    font-size: 30pt;
+}
+.verticalmenu a{
+    display: block;
+    background-color: grey;
+    color: white;
+    padding: 15pt;
+    text-decoration: none;
+ }
+
+.verticalmenu a:hover{
+    background-color: blue;
+}

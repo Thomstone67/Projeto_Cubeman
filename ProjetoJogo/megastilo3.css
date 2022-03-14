@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+}
+
+h1{
+    font-family: "Bauhaus 93";
+    font-size: 110px;
+}
+
+.verticalmenu{
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    font-family: "Bauhaus 93";
+    font-size: 30pt;
+}
+
+.verticalmenu a{
+    display: block;
+    background-color: grey;
+    color: white;
+    padding: 15pt;
+    text-decoration: none;
+}
+
+.verticalmenu a:hover{
+    background-color: blue;
+}
