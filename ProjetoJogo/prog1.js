@@ -4,7 +4,7 @@ var ctx = canvas.getContext("2d");
 //var cubemanImage = new Image();
 //cubemanImage.src = "./cubeman.png";
 let cubeman = {
-    //foto: cubemanImage,
+    //foto: cubemanImage, bkakaka
     x: 35, //spawn
     y: canvas.height-165,
     jump: true,
